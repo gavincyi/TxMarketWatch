@@ -1,5 +1,7 @@
 # TxMarketWatch
-Telegram bot - Market data provider
+Telegram bot - Market data provider.
+
+This is amazing projects for beginners.
 
 ## Prerequisite 
 
